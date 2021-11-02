@@ -5,3 +5,5 @@
 ### [OWASPv4_Checklist](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Penetration-Testing/blob/main/OWASPv4_Checklist.xlsx)
 
 ### [OWASP_Testing_Guide_v4](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
+
+### [CVSS Calculator](https://chandanbn.github.io/cvss/)
