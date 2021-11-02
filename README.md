@@ -1,6 +1,6 @@
 # Basic-Penetration-Testing
 
-### [Sample Pentest Report]()
+### [Sample Pentest Report](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Penetration-Testing/blob/main/Sample%20Pentest%20Report.xlsx)
 
 ### [OWASPv4_Checklist]()
 
